@@ -1,6 +1,6 @@
-# DAM2_23_24_PMDM_U2_Practica01
+# Practica01 - Recuperación Trimestre 1
 
-## Práctica 1 - Saludo y contadores - Recuperación 1
+## Saludo y contadores
 
 Mostrar en la pantalla un botón con el texto "Saludar" y un texto vacío debajo de él. Todo centrado.
 
